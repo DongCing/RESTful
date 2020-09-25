@@ -19,17 +19,15 @@
 -- 如果你的api想被称为restful api，只要遵循其规定的约束即可
 
 
-视图函数
+## 视图函数
 
 -- FBV
-
 -- function base view
 
 -- CBV
-
 -- class base view
 
-类视图
+## 类视图
 
 -- CBV（以下进行了源码分析）
 
