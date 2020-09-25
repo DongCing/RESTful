@@ -22,9 +22,11 @@
 ## 视图函数
 
 -- FBV
+
 -- function base view
 
 -- CBV
+
 -- class base view
 
 ## 类视图
