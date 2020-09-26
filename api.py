@@ -1,3 +1,5 @@
+# Django - views
+
 from django.http import JsonResponse
 from django.views.decorators.csrf import csrf_exempt
 from Api.models import Book
